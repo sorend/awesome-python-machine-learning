@@ -64,9 +64,9 @@ For a list of machine learning frameworks in more languages please see the excel
 - [Mars](https://github.com/mars-project/mars) - Mars is a tensor-based unified framework for large-scale data computation.
 - [Hyperopt-sklearn](https://github.com/hyperopt/hyperopt-sklearn) - Hyper-parameter optimization for sklearn.
 - [H2O](https://github.com/h2oai/h2o-3) - H2O is an in-memory platform for distributed, scalable machine learning.
-
-
-
+- [seglearn](https://github.com/dmbee/seglearn) - Python module for machine learning time series.
+- [pycobra](https://github.com/bhargavvader/pycobra) - python library implementing ensemble methods for regression, classification and visualisation tools including Voronoi tesselations.
+- [scikit-multilearn](https://github.com/scikit-multilearn/scikit-multilearn) - A scikit-learn based module for multi-label et. al. classification.
 
 
 
@@ -141,7 +141,7 @@ For a list of machine learning frameworks in more languages please see the excel
 - [BigML Python Bindings](https://github.com/bigmlcom/python) - These BigML Python bindings allow you to interact with BigML.io, the API for BigML. You can use it to easily create, retrieve, list, update, and delete BigML resources (i.e., sources, datasets, models and, predictions).
 - [python-timbl](https://github.com/proycon/python-timbl) - python-timbl is a Python extension module wrapping the full TiMBL C++ programming interface. With this module, all functionality exposed through the C++ interface is also available to Python scripts. Being able to access the API from Python greatly facilitates prototyping TiMBL-based applications.
 - [thampi](https://github.com/scoremedia/thampi) - thampi creates a machine learning prediction server on AWS Lambda.
-
+- [MLPACK](https://github.com/mlpack/mlpack) - mlpack: a scalable C++ machine learning library (with Python bindings)
 
 
 # Unsorted
