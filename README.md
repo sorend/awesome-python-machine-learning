@@ -62,7 +62,8 @@ For a list of machine learning frameworks in more languages please see the excel
 - [ml-ens](https://github.com/flennerhag/mlens) - A Python library for high performance ensemble learning.
 - [mindsdb](https://github.com/mindsdb/mindsdb) - MindsDB's goal is to make it very simple for developers to use the power of artificial neural networks in their projects.
 - [Mars](https://github.com/mars-project/mars) - Mars is a tensor-based unified framework for large-scale data computation.
-
+- [Hyperopt-sklearn](https://github.com/hyperopt/hyperopt-sklearn) - Hyper-parameter optimization for sklearn.
+- [H2O](https://github.com/h2oai/h2o-3) - H2O is an in-memory platform for distributed, scalable machine learning.
 
 
 
@@ -74,6 +75,18 @@ For a list of machine learning frameworks in more languages please see the excel
 - [Pandas](https://github.com/pandas-dev/pandas) - pandas is a Python package providing fast, flexible, and expressive data structures designed to make working with "relational" or "labeled" data both easy and intuitive.
 - [Modin](https://github.com/modin-project/modin) - Modin: Speed up your Pandas workflows by changing a single line of code.
 - [dfply](https://github.com/kieferk/dfply) - The dfply package makes it possible to do R's dplyr-style data manipulation with pipes in python on pandas DataFrames.
+- [xlwings](https://github.com/ZoomerAnalytics/xlwings) - xlwings is a BSD-licensed Python library that makes it easy to call Python from Excel and vice versa.
+- [pyflux](https://github.com/rjt1990/pyflux) - Open source time series library for Python.
+- [petl](https://github.com/petl-developers/petl) - Python Extract Transform and Load Tables of Data
+- [pypeln](https://github.com/cgarciae/pypeln) - Concurrent data pipelines made easy.
+- [botflow](https://github.com/kkyon/botflow) - Python Fast Dataflow programming framework for Data pipeline work.
+- [Great Expectations](https://github.com/great-expectations/great_expectations) - Great Expectations is a framework that helps teams save time and promote analytic integrity with a new twist on automated testing: pipeline tests.
+- [pandera](https://github.com/cosmicBboy/pandera) - Validating pandas data structures for people seeking correct things.
+- [pyjanitor](https://github.com/ericmjl/pyjanitor) - Clean APIs for data cleaning. Python implementation of R package Janitor.
+- [PandasSchema](https://github.com/TMiguelT/PandasSchema) - A validation library for Pandas data frames using user-friendly schemas.
+- [engarde](https://github.com/TomAugspurger/engarde) - A library for defensive data analysis.
+- [sklearn-pandas](https://github.com/scikit-learn-contrib/sklearn-pandas) - Pandas integration with sklearn.
+- [Blaze](https://github.com/blaze/blaze) - Blaze translates a subset of modified NumPy and Pandas-like syntax to databases and other computing systems.
 
 
 # Statistics libraries
@@ -81,6 +94,12 @@ For a list of machine learning frameworks in more languages please see the excel
 - [Statsmodels](https://github.com/statsmodels/statsmodels) - Statsmodels is a Python package that provides a complement to scipy for statistical computations including descriptive statistics and estimation and inference for statistical models.
 - [pymc3](https://github.com/pymc-devs/pymc3) - PyMC3 is a Python package for Bayesian statistical modeling and Probabilistic Machine Learning focusing on advanced Markov chain Monte Carlo (MCMC) and variational inference (VI) algorithms.
 - [sympy](https://github.com/sympy/sympy) - A Python library for symbolic mathematics.
+- [pmdarima](https://github.com/tgsmith61591/pmdarima) - A package that brings R's beloved auto.arima to Python, making an even stronger case for why Python > R for data science.
+
+# Explaining
+- [Lime](https://github.com/marcotcr/lime) - Lime: Explaining the predictions of any machine learning classifier.
+- [eli5](https://github.com/TeamHG-Memex/eli5) - ELI5 is a Python package which helps to debug machine learning classifiers and explain their predictions.
+- [SHAP](https://github.com/slundberg/shap) - SHAP (SHapley Additive exPlanations) is a unified approach to explain the output of any machine learning model.
 
 
 
@@ -94,8 +113,16 @@ For a list of machine learning frameworks in more languages please see the excel
 - [Cufflinks](https://github.com/santosjorge/cufflinks) - This library binds the power of plotly with the flexibility of pandas for easy plotting.
 - [Chartpy](https://github.com/cuemacro/chartpy) - Easy to use Python API wrapper to plot charts with matplotlib, plotly, bokeh and more.
 - [Vispy](https://github.com/vispy/vispy) - VisPy is a high-performance interactive 2D/3D data visualization library.
-
+- [pycm](https://github.com/sepandhaghighi/pycm) - Multi-class confusion matrix library in Python.
+- [Altair-Catplot](https://github.com/justinbois/altair-catplot) - Utility to generate plots with categorical variables using Altair.
+- [pdvega](https://github.com/altair-viz/pdvega) - Interactive plotting for Pandas using Vega-Lite.
+- [folium](https://github.com/python-visualization/folium) - Python Data. Leaflet.js Maps.
+- [jmpy](https://github.com/beltashazzer/jmpy) - Quick plotting and data visualization of pandas and numpy data.
+- [missingno](https://github.com/ResidentMario/missingno) - Missing data visualization module for Python.
+- [Yellowbrick](https://github.com/districtdatalabs/yellowbrick) - Visual analysis and diagnostic tools to facilitate machine learning model selection.
 - [netron](https://github.com/lutzroeder/netron) - Netron is a viewer for neural network, deep learning and machine learning models.
+- [PrettyPandas](https://github.com/HHammond/PrettyPandas) - PrettyPandas is a Pandas DataFrame Styler class that helps you create report quality tables with a simple API.
+
 
 
 
@@ -119,3 +146,9 @@ For a list of machine learning frameworks in more languages please see the excel
 
 # Unsorted
 - [pm4py](https://github.com/pm4py/pm4py-source) - PM4Py is a python library that supports (state-of-the-art) process mining algorithms in python.
+- [Optimus](https://github.com/ironmussa/Optimus) - Optimus is the missing framework to profile, clean, process and do ML in a distributed fashion using Apache Spark(PySpark).
+- [impyute](https://github.com/eltonlaw/impyute) - Impyute is a library of missing data imputation algorithms.
+- [Stairs](https://github.com/electronick1/stairs) - Framework which helps you make parallel/distributed calculations using data pipelines.
+- [fastText](https://github.com/facebookresearch/fastText) - Library for fast text representation and classification.
+- [pendulum](https://github.com/sdispater/pendulum) - Python datetimes made easy.
+- [loguru](https://github.com/Delgan/loguru) - Python logging made (stupidly) simple.
