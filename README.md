@@ -67,6 +67,7 @@ For a list of machine learning frameworks in more languages please see the excel
 - [seglearn](https://github.com/dmbee/seglearn) - Python module for machine learning time series.
 - [pycobra](https://github.com/bhargavvader/pycobra) - python library implementing ensemble methods for regression, classification and visualisation tools including Voronoi tesselations.
 - [scikit-multilearn](https://github.com/scikit-multilearn/scikit-multilearn) - A scikit-learn based module for multi-label et. al. classification.
+- [auto-sklearn](https://github.com/automl/auto-sklearn) - auto-sklearn is an automated machine learning toolkit and a drop-in replacement for a scikit-learn estimator.
 
 
 
