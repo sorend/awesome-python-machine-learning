@@ -101,6 +101,7 @@ For a list of machine learning frameworks in more languages please see the excel
 - [Lime](https://github.com/marcotcr/lime) - Lime: Explaining the predictions of any machine learning classifier.
 - [eli5](https://github.com/TeamHG-Memex/eli5) - ELI5 is a Python package which helps to debug machine learning classifiers and explain their predictions.
 - [SHAP](https://github.com/slundberg/shap) - SHAP (SHapley Additive exPlanations) is a unified approach to explain the output of any machine learning model.
+- [LOFO](https://github.com/aerdem4/lofo-importance) - LOFO (Leave One Feature Out) Importance calculates the importances of a set of features.
 
 
 
