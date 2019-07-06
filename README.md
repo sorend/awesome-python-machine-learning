@@ -137,6 +137,7 @@ For a list of machine learning frameworks in more languages please see the excel
 - [Numba](https://github.com/numba/numba) - A Just-In-Time Compiler for Numerical Functions in Python.
 - [Jupyter Notebook](https://github.com/jupyter/notebook) - A rich explorative data analysis tool.
 - [boto3](https://github.com/boto/boto3) - AWS SDK for Python.
+- [PennAI](https://github.com/EpistasisLab/pennai) - PennAI is an easy-to-use data science assistant. It allows researchers without machine learning or coding expertise to run supervised machine learning analysis through a clean web interface.
 
 
 # Wrappers
