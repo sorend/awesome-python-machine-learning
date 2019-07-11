@@ -96,6 +96,7 @@ For a list of machine learning frameworks in more languages please see the excel
 - [pymc3](https://github.com/pymc-devs/pymc3) - PyMC3 is a Python package for Bayesian statistical modeling and Probabilistic Machine Learning focusing on advanced Markov chain Monte Carlo (MCMC) and variational inference (VI) algorithms.
 - [sympy](https://github.com/sympy/sympy) - A Python library for symbolic mathematics.
 - [pmdarima](https://github.com/tgsmith61591/pmdarima) - A package that brings R's beloved auto.arima to Python, making an even stronger case for why Python > R for data science.
+- [scikit-posthocs](https://github.com/maximtrp/scikit-posthocs) - Pairwise multiple comparisons (post hoc) tests in Python.
 
 # Explaining
 - [Lime](https://github.com/marcotcr/lime) - Lime: Explaining the predictions of any machine learning classifier.
