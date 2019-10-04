@@ -68,7 +68,8 @@ For a list of machine learning frameworks in more languages please see the excel
 - [pycobra](https://github.com/bhargavvader/pycobra) - python library implementing ensemble methods for regression, classification and visualisation tools including Voronoi tesselations.
 - [scikit-multilearn](https://github.com/scikit-multilearn/scikit-multilearn) - A scikit-learn based module for multi-label et. al. classification.
 - [auto-sklearn](https://github.com/automl/auto-sklearn) - auto-sklearn is an automated machine learning toolkit and a drop-in replacement for a scikit-learn estimator.
-
+- [skits](https://github.com/ethanrosenthal/skits) - A library for SciKit-learn-Inspired Time Series models.
+- [tsfresh](https://github.com/blue-yonder/tsfresh) - Automatic extraction of relevant features from time series.
 
 
 # Data processing
@@ -146,7 +147,7 @@ For a list of machine learning frameworks in more languages please see the excel
 - [python-timbl](https://github.com/proycon/python-timbl) - python-timbl is a Python extension module wrapping the full TiMBL C++ programming interface. With this module, all functionality exposed through the C++ interface is also available to Python scripts. Being able to access the API from Python greatly facilitates prototyping TiMBL-based applications.
 - [thampi](https://github.com/scoremedia/thampi) - thampi creates a machine learning prediction server on AWS Lambda.
 - [MLPACK](https://github.com/mlpack/mlpack) - mlpack: a scalable C++ machine learning library (with Python bindings)
-
+- [PyStan](https://github.com/stan-dev/pystan) - PyStan provides a Python interface to Stan, a package for Bayesian inference using the No-U-Turn sampler, a variant of Hamiltonian Monte Carlo.
 
 # Unsorted
 - [pm4py](https://github.com/pm4py/pm4py-source) - PM4Py is a python library that supports (state-of-the-art) process mining algorithms in python.
