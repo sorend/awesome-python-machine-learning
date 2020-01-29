@@ -70,7 +70,10 @@ For a list of machine learning frameworks in more languages please see the excel
 - [auto-sklearn](https://github.com/automl/auto-sklearn) - auto-sklearn is an automated machine learning toolkit and a drop-in replacement for a scikit-learn estimator.
 - [skits](https://github.com/ethanrosenthal/skits) - A library for SciKit-learn-Inspired Time Series models.
 - [tsfresh](https://github.com/blue-yonder/tsfresh) - Automatic extraction of relevant features from time series.
-
+- [pyqlearning](https://github.com/chimera0/accel-brain-code/tree/master/Reinforcement-Learning) - pyqlearning is Python library to implement Reinforcement Learning and Deep Reinforcement Learning.
+- [keras-rl](https://github.com/keras-rl/keras-rl) - Deep Reinforcement Learning for Keras.
+- [mushroom-rl](https://github.com/MushroomRL/mushroom-rl) - Python library for Reinforcement Learning experiments.
+- [chainerrl](https://github.com/chainer/chainerrl) - ChainerRL is a deep reinforcement learning library built on top of Chainer.
 
 # Data processing
 - [NumPy](https://github.com/numpy/numpy) - NumPy is the fundamental package needed for scientific computing with Python.
