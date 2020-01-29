@@ -74,6 +74,8 @@ For a list of machine learning frameworks in more languages please see the excel
 - [keras-rl](https://github.com/keras-rl/keras-rl) - Deep Reinforcement Learning for Keras.
 - [mushroom-rl](https://github.com/MushroomRL/mushroom-rl) - Python library for Reinforcement Learning experiments.
 - [chainerrl](https://github.com/chainer/chainerrl) - ChainerRL is a deep reinforcement learning library built on top of Chainer.
+- [tensorforce](https://github.com/tensorforce/tensorforce) - Tensorforce: a TensorFlow library for applied reinforcement learning.
+
 
 # Data processing
 - [NumPy](https://github.com/numpy/numpy) - NumPy is the fundamental package needed for scientific computing with Python.
