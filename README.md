@@ -94,6 +94,7 @@ For a list of machine learning frameworks in more languages please see the excel
 - [engarde](https://github.com/TomAugspurger/engarde) - A library for defensive data analysis.
 - [sklearn-pandas](https://github.com/scikit-learn-contrib/sklearn-pandas) - Pandas integration with sklearn.
 - [Blaze](https://github.com/blaze/blaze) - Blaze translates a subset of modified NumPy and Pandas-like syntax to databases and other computing systems.
+- [scikit-datasets](https://github.com/daviddiazvico/scikit-datasets) - Scikit-learn-compatible datasets.
 
 
 # Statistics libraries
